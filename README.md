@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Profanor/Profanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github Profile!
 
-Here are some ideas to get you started:
+About Me>>>
+I am a passionate frontend developer devoted to crafting visually appealing designs and sharing my knowledge and insights on Programming.  
+- 🔭 I’m currently working on solidifying my knowledge of Javascript so I can gain mastery in Node and solidity
+- 🌱 I’m currently learning Nodejs
+- 👯 I’m looking to collaborate on fullstack and front end design projects.
+- 📫 How to reach me: You can reach me through the following channels:
+- 
+Don't hesitate to connect with me. I'm open to collaborations, and answering any questions you may have.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Happy Coding! 
