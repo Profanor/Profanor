@@ -3,7 +3,7 @@ Hi there 👋
 Welcome to my Github Profile!
 
 About Me>>>
-I am a passionate frontend developer devoted to crafting visually appealing designs and sharing my knowledge and insights on Programming.  
+I am a passionate frontend engineer devoted to crafting visually appealing designs and sharing my knowledge and insights on Programming.  
 - 🔭 I’m currently working on solidifying my knowledge of Javascript so I can gain mastery in Node and solidity
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on fullstack and front end design projects.
