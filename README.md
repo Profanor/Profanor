@@ -2,7 +2,6 @@ Hi there 👋
 
 Welcome to my Github Profile!
 
-About Me>>>
 I am a passionate software engineer devoted to crafting visually appealing designs, making robust applications, RESTful APIs and sharing my knowledge and insights on Programming.  
 - 🔭 I’m currently working on solidifying my knowledge of Javascript so I can gain mastery in solidity
 - 🌱 I’m proficient in Nodejs, Express, React, Typescript, Python and Next.js.
