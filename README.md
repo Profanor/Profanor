@@ -1,16 +1,24 @@
-Hi there 👋
+🚀 Hi there, I’m David Arinze
 
-Welcome to my Github Profile!
+Welcome to my GitHub profile!
 
-I’m David, a passionate Software Engineer focused on building elegant, high-performance applications, crafting RESTful APIs, and sharing insights into modern programming practices.  
-- 🌟 Currently exploring: Advanced JavaScript concepts as I gear up for mastering Solidity.
-- 🔧 Proficient in: Node.js, Express, Nest.js, React, TypeScript, Python, and Next.js.
-- 🎨 Passionate about: Full-stack development, frontend design, and creating seamless user experiences.
-- 🤝 Looking to collaborate: On innovative full-stack and frontend projects that make an impact.
-📬 Connect with Me:
-LinkedIn: https://www.linkedin.com/in/david-arinze-5766161a1/
+I’m a Backend Engineer passionate about designing scalable systems, building clean and efficient APIs, and delivering production-ready solutions that balance performance with maintainability.
 
-Don't hesitate to connect with me. I'm open to collaborations, and answering any questions you may have.
+🧠 Core Focus: Backend architecture, microservices, and real-time systems.
 
+🛠️ Tech Stack: Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, Redis, Docker, and Kubernetes.
 
-Happy Coding! 🚀
+⚙️ Tools & Practices: CI/CD pipelines (GitHub Actions, Jenkins), containerized deployments, and observability with Grafana + Prometheus.
+
+💡 Currently Exploring: Distributed systems design and Rust for systems programming.
+
+🤝 Open to Collaborate On: Backend-heavy or full-stack projects that emphasize clean architecture and scalability.
+
+📬 Connect with me:
+🔗 LinkedIn
+
+💼 Always happy to discuss engineering practices, architecture decisions, or potential collaborations.
+
+“Build systems that scale, not just code that runs.”
+
+Happy coding! ⚡
