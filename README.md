@@ -15,7 +15,7 @@ I’m a Backend Engineer passionate about designing scalable systems, building c
 🤝 Open to Collaborate On: Backend-heavy or full-stack projects that emphasize clean architecture and scalability.
 
 📬 Connect with me:
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/david-arinze-5766161a1/)
 
 💼 Always happy to discuss engineering practices, architecture decisions, or potential collaborations.
 
